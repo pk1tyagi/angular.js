@@ -1,0 +1,1 @@
+/* this is test JavaScript file*/
